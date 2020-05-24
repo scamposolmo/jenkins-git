@@ -6,3 +6,5 @@ And it should be triggered by any change
 Hola!
 
 Hola1
+
+Hola2
